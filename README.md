@@ -1,4 +1,4 @@
-_...starting as a cloud computing and big data programming classs project..._
+_...starting as a **cloud computing** and **big data programming** class project..._
 # Tokamak Reactor HPC Simulation
 High Performance Computing Experimental Simualtion; Future plans to train AI for reducing compute required to simulate real nuclear fusion reactors;
 
