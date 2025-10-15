@@ -7,6 +7,10 @@ A physics-constrained deep learning surrogate model of the runaway electron aval
 https://arxiv.org/html/2403.04948v1?
 ```
 ```
+Fokker-Planck Equation
+https://en.wikipedia.org/wiki/Fokker–Planck_equation
+```
+```
 Chapter 6
 Statistical Physics: Statics, Dynamics and Renormalization
 By Leo P. Kadanoff
